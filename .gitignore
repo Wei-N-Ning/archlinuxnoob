@@ -1,0 +1,10 @@
+build
+cmake-build-debug
+.vscode
+.idea
+*.swp
+*.so
+*.o
+*.pyc
+*~
+
