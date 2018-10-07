@@ -106,6 +106,10 @@ systemctl enable dhcpcd.service
 ```
 
 enable OpenSSH service (download openssh package)
+
+this can be quite important if the vm is running in headless mode 
+(no desktop)
+
 ```
 pacman -S openssh
 systemctl enable sshd.service
