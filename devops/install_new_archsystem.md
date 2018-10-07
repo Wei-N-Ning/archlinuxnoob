@@ -8,6 +8,9 @@ Why am I getting `database file does not exist` warnings?
 read:
 https://bbs.archlinux.org/viewtopic.php?id=136596
 
+also worth reading:
+https://wiki.archlinux.org/index.php/General_recommendations
+
 ```
 pacman -Syu --debug
 
