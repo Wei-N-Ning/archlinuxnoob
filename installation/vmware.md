@@ -143,7 +143,18 @@ reboot
 
 choose `Arch Linux` option
 
-log in as root, then install the following packages:
+log in as root, 
+
+how to make the fonts bigger??
+```
+pacman -S kbd
+
+# find the only 32-points font in /usr/shared/kbd/consolefonts
+
+setfont ...
+```
+
+then install the following packages:
 
 ```
 sudo
